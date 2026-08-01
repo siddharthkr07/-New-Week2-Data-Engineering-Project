@@ -1,0 +1,12 @@
+
+Order_ID,Customer_ID,Order_Amount,Order_Status
+O1001,C101,1500,Completed
+O1002,C102,2500,Completed
+O1003,C103,1200,Pending
+O1004,C104,3400,Completed
+O1005,C101,1800,Completed
+O1006,C105,2200,Cancelled
+O1007,C106,4100,Completed
+O1008,C107,900,Pending
+O1009,C108,3000,Completed
+O1010,C102,2700,Completed

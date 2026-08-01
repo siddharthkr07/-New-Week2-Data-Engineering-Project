@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Order_Amount,Order_Status,Customer_Name,City,Join_Date,Payment_ID,Payment_Status,Shipping_Status
+O1001,C101,1500,Completed,Rahul,Delhi,2024-01-10,P001,Paid,Delivered
+O1002,C102,2500,Completed,Aman,Patna,2024-02-15,P002,Paid,Delivered
+O1003,C103,1200,Pending,Priya,Mumbai,2024-03-20,P003,Pending,Processing
+O1004,C104,3400,Completed,Neha,Kolkata,2024-04-05,P004,Paid,Delivered
+O1005,C101,1800,Completed,Rahul,Delhi,2024-01-10,P005,Paid,Delivered
+O1006,C105,2200,Cancelled,Rohit,Jaipur,2024-05-18,P006,Failed,Cancelled
+O1007,C106,4100,Completed,Anjali,Lucknow,2024-06-12,P007,Paid,Delivered
+O1008,C107,900,Pending,Vikas,Pune,2024-07-25,P008,Pending,Shipped
+O1009,C108,3000,Completed,Simran,Chandigarh,2024-08-08,P009,Paid,Delivered
+O1010,C102,2700,Completed,Aman,Patna,2024-02-15,P010,Paid,Delivered

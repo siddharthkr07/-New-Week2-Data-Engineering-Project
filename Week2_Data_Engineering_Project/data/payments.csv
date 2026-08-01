@@ -1,0 +1,12 @@
+
+Payment_ID,Order_ID,Payment_Status
+P001,O1001,Paid
+P002,O1002,Paid
+P003,O1003,Pending
+P004,O1004,Paid
+P005,O1005,Paid
+P006,O1006,Failed
+P007,O1007,Paid
+P008,O1008,Pending
+P009,O1009,Paid
+P010,O1010,Paid
